@@ -206,6 +206,10 @@ body {
         text-align: center;
     }
 
+    .img-options {
+        margin-top: 2rem;
+    }
+
     .navbar,
     .main {
         padding-inline: 3rem;
@@ -255,6 +259,10 @@ body {
     .toggle-menu {
         font-size: 2rem;
     }
+
+    .img-options {
+        gap: 1rem;
+    }
 }
 
 @media screen and (max-width:500px) {
@@ -264,7 +272,15 @@ body {
         padding-inline: 1rem;
     }
 
+    .close-menu {
+        right: 1rem;
+    }
+
     .main-content h1 {
+        font-size: 4rem;
+    }
+
+    .text {
         font-size: 4rem;
     }
 }
