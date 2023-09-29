@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Samim-Aktar-coder/Fruits-website/main/Github%20Banner.png)](https://enjoy-fruits.netlify.app/)
+[![MasterHead](https://image-link-website.netlify.app/img/fruit-website.png)](https://enjoy-fruits.netlify.app/)
 
 ### Live: [Click Here](https://enjoy-fruits.netlify.app/)
 
@@ -16,10 +16,9 @@ Tech stack I use to build this app:
 
 ## 🙋‍♂️ Author
 
-- [@SamimAktar](https://github.com/Samim-Aktar-coder)
+- [@SamimAktar](https://github.com/samimaktar-coder)
 
 ## Installation
-
 
 ```bash
     No installation Required
